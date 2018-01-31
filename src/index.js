@@ -16,7 +16,7 @@ ReactDOM.render(
   <Provider store={store}>
     <App />
   </Provider>,
-  document.querySelector("SMASH")
+  document.querySelector("#SMASH")
 );
 
 // registerServiceWorker();
