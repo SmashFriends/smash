@@ -47,5 +47,6 @@
     "start": "webpack-dev-server",
     "lint": "eslint src/**/*.js && stylelint src/**/*.js",
     "fmt": "prettier --write 'src/**/*.js'"
-  }
+  },
+  "dependencies": {}
 }
